@@ -19,13 +19,13 @@ from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs
 <div align="center">
 
   ### Things I code with :computer: :
-  ![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
-  ![JavaScript](https://img.shields.io/badge/javascript-%23444.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![JQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-%23ffa500.svg?style=for-the-badge&logo=Linux&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ffa500.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%23D81159.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-%2321838?style=for-the-badge&logo=oracle&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-%238F2D56.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+  ![JavaScript](https://img.shields.io/badge/javascript-%23e85a71.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/jQuery-%234ea1d3.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-%23454552.svg?style=for-the-badge&logo=Linux&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <br>
   
   
