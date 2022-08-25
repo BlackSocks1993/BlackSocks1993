@@ -14,6 +14,9 @@ from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs
 **South Korea**
 
 </div>
+
+<br>
+<hr>
 <br>
 
 <div align="center">
@@ -22,17 +25,35 @@ from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs
   ![Java](https://img.shields.io/badge/java-%23ffa500.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%23D81159.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-%2321838?style=for-the-badge&logo=oracle&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%238F2D56.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
-  ![JavaScript](https://img.shields.io/badge/javascript-%23e85a71.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%238F2D56.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23e85a71.svg?style=for-the-badge&logo=javascript&logoColor=white) <br>
   ![JQuery](https://img.shields.io/badge/jQuery-%234ea1d3.svg?style=for-the-badge&logo=jQuery&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-%23454552.svg?style=for-the-badge&logo=Linux&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <br>
   
   
 </div>
+
+<br>
+<hr>
 <br>
 
-----------
+<div align="center">
+
+  ### 🌱 I'm currently learning... :
+  ![Linux](https://img.shields.io/badge/Linux-%23454552.svg?style=for-the-badge&logo=Linux&logoColor=white)
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+  ### 💬 Sometimes I like to write things here...
+  <a href="https://blog.naver.com/blacksocks93/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>
+
+</div>
 
 <!--
 **BlackSocks1993/BlackSocks1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
