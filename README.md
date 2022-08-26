@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=000000&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=WELCOME+TO+MY+PAGE;I'm+Gwang+Hyeok%2C+Fullstack+developer++from+South+Korea;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=2000&color=000000&background=FFFFFFFF&center=true&multiline=true&width=1000&height=100&lines=WELCOME+TO+MY+PAGE;I'm+Gwang+Hyeok%2C+Fullstack+developer++from+South+Korea;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/340/flag-south-korea_1f1f0-1f1f7.png" width="50" />
 
 <!-- ### Welcome to my page!   
